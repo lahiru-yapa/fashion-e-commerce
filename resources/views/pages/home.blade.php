@@ -358,36 +358,7 @@
                                                     <div class="pi01Price">
                                                         <ins>$349</ins>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_1_1" value="Blue" id="color_1_1_1_blue"/>
-                                                                <label for="color_1_1_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_1_1" value="Yellow" id="color_1_1_2_blue"/>
-                                                                <label for="color_1_1_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_1_1" value="Red" id="color_1_1_3_blue"/>
-                                                                <label for="color_1_1_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_1" value="Blue" id="size1_1_1_1"/>
-                                                                <label for="size1_1_1_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_1" value="Yellow" id="size1_1_1_2"/>
-                                                                <label for="size1_1_1_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_1" value="Red" id="size1_1_1_3"/>
-                                                                <label for="size1_1_1_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                    
                                                 </div>
                                             </div>
                                         </div>
@@ -411,36 +382,7 @@
                                                         <ins>$30</ins>
                                                         <del>$40</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_1_2" value="Blue" id="color_1_2_1_blue"/>
-                                                                <label for="color_1_2_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_1_2" value="Yellow" id="color_1_2_2_blue"/>
-                                                                <label for="color_1_2_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_1_2" value="Red" id="color_1_2_3_blue"/>
-                                                                <label for="color_1_2_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_2" value="Blue" id="size1_1_2_1"/>
-                                                                <label for="size1_1_2_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_2" value="Yellow" id="size1_1_2_2"/>
-                                                                <label for="size1_1_2_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_2" value="Red" id="size1_1_2_3"/>
-                                                                <label for="size1_1_2_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                   
                                                 </div>
                                             </div>
                                         </div>
@@ -470,36 +412,7 @@
                                                         <ins>$19</ins>
                                                         <del>$39</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_1_3" value="Blue" id="color_1_3_1_blue"/>
-                                                                <label for="color_1_3_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_1_3" value="Yellow" id="color_1_3_2_blue"/>
-                                                                <label for="color_1_3_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_1_3" value="Red" id="color_1_3_3_blue"/>
-                                                                <label for="color_1_3_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_3" value="Blue" id="size1_1_3_1"/>
-                                                                <label for="size1_1_3_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_3" value="Yellow" id="size1_1_3_2"/>
-                                                                <label for="size1_1_3_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_3" value="Red" id="size1_1_3_3"/>
-                                                                <label for="size1_1_3_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                               
                                                 </div>
                                             </div>
                                         </div>
@@ -524,36 +437,6 @@
                                                     <h3><a href="shop_details2.html">Men’s cross check shirt</a></h3>
                                                     <div class="pi01Price">
                                                         <ins>$89</ins>
-                                                    </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_1_4" value="Blue" id="color_1_4_1_blue"/>
-                                                                <label for="color_1_4_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_1_4" value="Yellow" id="color_1_4_2_blue"/>
-                                                                <label for="color_1_4_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_1_4" value="Red" id="color_1_4_3_blue"/>
-                                                                <label for="color_1_4_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_4" value="Blue" id="size1_1_4_1"/>
-                                                                <label for="size1_1_4_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_4" value="Yellow" id="size1_1_4_2"/>
-                                                                <label for="size1_1_4_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_4" value="Red" id="size1_1_4_3"/>
-                                                                <label for="size1_1_4_3">XL</label>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -584,36 +467,6 @@
                                                         <ins>$49</ins>
                                                         <del>$60</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_1_5" value="Blue" id="color_1_5_1_blue"/>
-                                                                <label for="color_1_5_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_1_5" value="Yellow" id="color_1_5_2_blue"/>
-                                                                <label for="color_1_5_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_1_5" value="Red" id="color_1_5_3_blue"/>
-                                                                <label for="color_1_5_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_5" value="Blue" id="size1_1_5_1"/>
-                                                                <label for="size1_1_5_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_5" value="Yellow" id="size1_1_5_2"/>
-                                                                <label for="size1_1_5_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_5" value="Red" id="size1_1_5_3"/>
-                                                                <label for="size1_1_5_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -642,36 +495,6 @@
                                                     <div class="pi01Price">
                                                         <ins>$76</ins>
                                                         <del>$90</del>
-                                                    </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_1_6" value="Blue" id="color_1_6_1_blue"/>
-                                                                <label for="color_1_6_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_1_6" value="Yellow" id="color_1_6_2_blue"/>
-                                                                <label for="color_1_6_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_1_6" value="Red" id="color_1_6_3_blue"/>
-                                                                <label for="color_1_6_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_6" value="Blue" id="size1_1_6_1"/>
-                                                                <label for="size1_1_6_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_6" value="Yellow" id="size1_1_6_2"/>
-                                                                <label for="size1_1_6_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_6" value="Red" id="size1_1_6_3"/>
-                                                                <label for="size1_1_6_3">XL</label>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -703,36 +526,6 @@
                                                         <ins>$22</ins>
                                                         <del>$47</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_1_7" value="Blue" id="color_1_7_1_blue"/>
-                                                                <label for="color_1_7_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_1_7" value="Yellow" id="color_1_7_2_blue"/>
-                                                                <label for="color_1_7_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_1_7" value="Red" id="color_1_7_3_blue"/>
-                                                                <label for="color_1_7_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_7" value="Blue" id="size1_1_7_1"/>
-                                                                <label for="size1_1_7_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_7" value="Yellow" id="size1_1_7_2"/>
-                                                                <label for="size1_1_7_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_7" value="Red" id="size1_1_7_3"/>
-                                                                <label for="size1_1_7_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -751,36 +544,6 @@
                                                     <h3><a href="shop_details2.html">Ulina business class watch</a></h3>
                                                     <div class="pi01Price">
                                                         <ins>$77</ins>
-                                                    </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_1_8" value="Blue" id="color_1_8_1_blue"/>
-                                                                <label for="color_1_8_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_1_8" value="Yellow" id="color_1_8_2_blue"/>
-                                                                <label for="color_1_8_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_1_8" value="Red" id="color_1_8_3_blue"/>
-                                                                <label for="color_1_8_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_8" value="Blue" id="size1_1_8_1"/>
-                                                                <label for="size1_1_8_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_8" value="Yellow" id="size1_1_8_2"/>
-                                                                <label for="size1_1_8_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_1_8" value="Red" id="size1_1_8_3"/>
-                                                                <label for="size1_1_8_3">XL</label>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -815,36 +578,6 @@
                                                         <ins>$19</ins>
                                                         <del>$39</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_2_3" value="Blue" id="color_2_3_1_blue"/>
-                                                                <label for="color_2_3_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_2_3" value="Yellow" id="color_2_3_2_blue"/>
-                                                                <label for="color_2_3_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_2_3" value="Red" id="color_2_3_3_blue"/>
-                                                                <label for="color_2_3_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_3" value="Blue" id="size1_2_3_1"/>
-                                                                <label for="size1_2_3_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_3" value="Yellow" id="size1_2_3_2"/>
-                                                                <label for="size1_2_3_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_3" value="Red" id="size1_2_3_3"/>
-                                                                <label for="size1_2_3_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -869,36 +602,6 @@
                                                     <h3><a href="shop_details2.html">Men’s cross check shirt</a></h3>
                                                     <div class="pi01Price">
                                                         <ins>$89</ins>
-                                                    </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_2_4" value="Blue" id="color_2_4_1_blue"/>
-                                                                <label for="color_2_4_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_2_4" value="Yellow" id="color_2_4_2_blue"/>
-                                                                <label for="color_2_4_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_2_4" value="Red" id="color_2_4_3_blue"/>
-                                                                <label for="color_2_4_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_4" value="Blue" id="size1_2_4_1"/>
-                                                                <label for="size1_2_4_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_4" value="Yellow" id="size1_2_4_2"/>
-                                                                <label for="size1_2_4_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_4" value="Red" id="size1_2_4_3"/>
-                                                                <label for="size1_2_4_3">XL</label>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -928,36 +631,6 @@
                                                     <div class="pi01Price">
                                                         <ins>$349</ins>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_2_1" value="Blue" id="color_2_1_1_blue"/>
-                                                                <label for="color_2_1_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_2_1" value="Yellow" id="color_2_1_2_blue"/>
-                                                                <label for="color_2_1_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_2_1" value="Red" id="color_2_1_3_blue"/>
-                                                                <label for="color_2_1_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_1" value="Blue" id="size1_2_1_1"/>
-                                                                <label for="size1_2_1_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_1" value="Yellow" id="size1_2_1_2"/>
-                                                                <label for="size1_2_1_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_1" value="Red" id="size1_2_1_3"/>
-                                                                <label for="size1_2_1_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -980,36 +653,6 @@
                                                     <div class="pi01Price">
                                                         <ins>$30</ins>
                                                         <del>$40</del>
-                                                    </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_2_2" value="Blue" id="color_2_2_1_blue"/>
-                                                                <label for="color_2_2_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_2_2" value="Yellow" id="color_2_2_2_blue"/>
-                                                                <label for="color_2_2_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_2_2" value="Red" id="color_2_2_3_blue"/>
-                                                                <label for="color_2_2_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_2" value="Blue" id="size1_2_2_1"/>
-                                                                <label for="size1_2_2_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_2" value="Yellow" id="size1_2_2_2"/>
-                                                                <label for="size1_2_2_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_2" value="Red" id="size1_2_2_3"/>
-                                                                <label for="size1_2_2_3">XL</label>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1041,36 +684,6 @@
                                                         <ins>$22</ins>
                                                         <del>$47</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_2_7" value="Blue" id="color_2_7_1_blue"/>
-                                                                <label for="color_2_7_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_2_7" value="Yellow" id="color_2_7_2_blue"/>
-                                                                <label for="color_2_7_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_2_7" value="Red" id="color_2_7_3_blue"/>
-                                                                <label for="color_2_7_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_7" value="Blue" id="size1_2_7_1"/>
-                                                                <label for="size1_2_7_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_7" value="Yellow" id="size1_2_7_2"/>
-                                                                <label for="size1_2_7_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_7" value="Red" id="size1_2_7_3"/>
-                                                                <label for="size1_2_7_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1089,36 +702,6 @@
                                                     <h3><a href="shop_details1.html">Ulina business class watch</a></h3>
                                                     <div class="pi01Price">
                                                         <ins>$77</ins>
-                                                    </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_2_8" value="Blue" id="color_2_8_1_blue"/>
-                                                                <label for="color_2_8_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_2_8" value="Yellow" id="color_2_8_2_blue"/>
-                                                                <label for="color_2_8_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_2_8" value="Red" id="color_2_8_3_blue"/>
-                                                                <label for="color_2_8_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_8" value="Blue" id="size1_2_8_1"/>
-                                                                <label for="size1_2_8_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_8" value="Yellow" id="size1_2_8_2"/>
-                                                                <label for="size1_2_8_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_8" value="Red" id="size1_2_8_3"/>
-                                                                <label for="size1_2_8_3">XL</label>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1149,36 +732,6 @@
                                                         <ins>$49</ins>
                                                         <del>$60</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_2_5" value="Blue" id="color_2_5_1_blue"/>
-                                                                <label for="color_2_5_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_2_5" value="Yellow" id="color_2_5_2_blue"/>
-                                                                <label for="color_2_5_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_2_5" value="Red" id="color_2_5_3_blue"/>
-                                                                <label for="color_2_5_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_5" value="Blue" id="size1_2_5_1"/>
-                                                                <label for="size1_2_5_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_5" value="Yellow" id="size1_2_5_2"/>
-                                                                <label for="size1_2_5_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_5" value="Red" id="size1_2_5_3"/>
-                                                                <label for="size1_2_5_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1207,36 +760,6 @@
                                                     <div class="pi01Price">
                                                         <ins>$76</ins>
                                                         <del>$90</del>
-                                                    </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_2_6" value="Blue" id="color_2_6_1_blue"/>
-                                                                <label for="color_2_6_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_2_6" value="Yellow" id="color_2_6_2_blue"/>
-                                                                <label for="color_2_6_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_2_6" value="Red" id="color_2_6_3_blue"/>
-                                                                <label for="color_2_6_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_6" value="Blue" id="size1_2_6_1"/>
-                                                                <label for="size1_2_6_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_6" value="Yellow" id="size1_2_6_2"/>
-                                                                <label for="size1_2_6_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_2_6" value="Red" id="size1_2_6_3"/>
-                                                                <label for="size1_2_6_3">XL</label>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1271,36 +794,6 @@
                                                         <ins>$19</ins>
                                                         <del>$39</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_3_3" value="Blue" id="color_3_3_1_blue"/>
-                                                                <label for="color_3_3_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_3_3" value="Yellow" id="color_3_3_2_blue"/>
-                                                                <label for="color_3_3_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_3_3" value="Red" id="color_3_3_3_blue"/>
-                                                                <label for="color_3_3_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_3" value="Blue" id="size1_3_3_1"/>
-                                                                <label for="size1_3_3_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_3" value="Yellow" id="size1_3_3_2"/>
-                                                                <label for="size1_3_3_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_3" value="Red" id="size1_3_3_3"/>
-                                                                <label for="size1_3_3_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1325,36 +818,6 @@
                                                     <h3><a href="shop_details1.html">Men’s cross check shirt</a></h3>
                                                     <div class="pi01Price">
                                                         <ins>$89</ins>
-                                                    </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_3_4" value="Blue" id="color_3_4_1_blue"/>
-                                                                <label for="color_3_4_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_3_4" value="Yellow" id="color_3_4_2_blue"/>
-                                                                <label for="color_3_4_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_3_4" value="Red" id="color_3_4_3_blue"/>
-                                                                <label for="color_3_4_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_4" value="Blue" id="size1_3_4_1"/>
-                                                                <label for="size1_3_4_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_4" value="Yellow" id="size1_3_4_2"/>
-                                                                <label for="size1_3_4_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_4" value="Red" id="size1_3_4_3"/>
-                                                                <label for="size1_3_4_3">XL</label>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1385,36 +848,6 @@
                                                         <ins>$49</ins>
                                                         <del>$60</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_3_5" value="Blue" id="color_3_5_1_blue"/>
-                                                                <label for="color_3_5_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_3_5" value="Yellow" id="color_3_5_2_blue"/>
-                                                                <label for="color_3_5_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_3_5" value="Red" id="color_3_5_3_blue"/>
-                                                                <label for="color_3_5_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_5" value="Blue" id="size1_3_5_1"/>
-                                                                <label for="size1_3_5_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_5" value="Yellow" id="size1_3_5_2"/>
-                                                                <label for="size1_3_5_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_5" value="Red" id="size1_3_5_3"/>
-                                                                <label for="size1_3_5_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1444,36 +877,6 @@
                                                         <ins>$76</ins>
                                                         <del>$90</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_3_6" value="Blue" id="color_3_6_1_blue"/>
-                                                                <label for="color_3_6_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_3_6" value="Yellow" id="color_3_6_2_blue"/>
-                                                                <label for="color_3_6_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_3_6" value="Red" id="color_3_6_3_blue"/>
-                                                                <label for="color_3_6_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_6" value="Blue" id="size1_3_6_1"/>
-                                                                <label for="size1_3_6_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_6" value="Yellow" id="size1_3_6_2"/>
-                                                                <label for="size1_3_6_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_6" value="Red" id="size1_3_6_3"/>
-                                                                <label for="size1_3_6_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1502,36 +905,6 @@
                                                     <div class="pi01Price">
                                                         <ins>$349</ins>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_3_1" value="Blue" id="color_3_1_1_blue"/>
-                                                                <label for="color_3_1_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_3_1" value="Yellow" id="color_3_1_2_blue"/>
-                                                                <label for="color_3_1_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_3_1" value="Red" id="color_3_1_3_blue"/>
-                                                                <label for="color_3_1_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_1" value="Blue" id="size1_3_1_1"/>
-                                                                <label for="size1_3_1_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_1" value="Yellow" id="size1_3_1_2"/>
-                                                                <label for="size1_3_1_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_1" value="Red" id="size1_3_1_3"/>
-                                                                <label for="size1_3_1_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1554,36 +927,6 @@
                                                     <div class="pi01Price">
                                                         <ins>$30</ins>
                                                         <del>$40</del>
-                                                    </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_3_2" value="Blue" id="color_3_2_1_blue"/>
-                                                                <label for="color_3_2_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_3_2" value="Yellow" id="color_3_2_2_blue"/>
-                                                                <label for="color_3_2_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_3_2" value="Red" id="color_3_2_3_blue"/>
-                                                                <label for="color_3_2_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_2" value="Blue" id="size1_3_2_1"/>
-                                                                <label for="size1_3_2_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_2" value="Yellow" id="size1_3_2_2"/>
-                                                                <label for="size1_3_2_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_2" value="Red" id="size1_3_2_3"/>
-                                                                <label for="size1_3_2_3">XL</label>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1615,36 +958,6 @@
                                                         <ins>$22</ins>
                                                         <del>$47</del>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_3_7" value="Blue" id="color_3_7_1_blue"/>
-                                                                <label for="color_3_7_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_3_7" value="Yellow" id="color_3_7_2_blue"/>
-                                                                <label for="color_3_7_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_3_7" value="Red" id="color_3_7_3_blue"/>
-                                                                <label for="color_3_7_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_7" value="Blue" id="size1_3_7_1"/>
-                                                                <label for="size1_3_7_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_7" value="Yellow" id="size1_3_7_2"/>
-                                                                <label for="size1_3_7_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_7" value="Red" id="size1_3_7_3"/>
-                                                                <label for="size1_3_7_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1664,36 +977,7 @@
                                                     <div class="pi01Price">
                                                         <ins>$77</ins>
                                                     </div>
-                                                    <div class="pi01Variations">
-                                                        <div class="pi01VColor">
-                                                            <div class="pi01VCItem">
-                                                                <input checked type="radio" name="color_3_8" value="Blue" id="color_3_8_1_blue"/>
-                                                                <label for="color_3_8_1_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem yellows">
-                                                                <input type="radio" name="color_3_8" value="Yellow" id="color_3_8_2_blue"/>
-                                                                <label for="color_3_8_2_blue"></label>
-                                                            </div>
-                                                            <div class="pi01VCItem reds">
-                                                                <input type="radio" name="color_3_8" value="Red" id="color_3_8_3_blue"/>
-                                                                <label for="color_3_8_3_blue"></label>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pi01VSize">
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_8" value="Blue" id="size1_3_8_1"/>
-                                                                <label for="size1_3_8_1">S</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_8" value="Yellow" id="size1_3_8_2"/>
-                                                                <label for="size1_3_8_2">M</label>
-                                                            </div>
-                                                            <div class="pi01VSItem">
-                                                                <input type="radio" name="size_3_8" value="Red" id="size1_3_8_3"/>
-                                                                <label for="size1_3_8_3">XL</label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                   
                                                 </div>
                                             </div>
                                         </div>
@@ -1883,36 +1167,6 @@
                                         <ins>$12</ins>
                                         <del>$21</del>
                                     </div>
-                                    <div class="pi01Variations">
-                                        <div class="pi01VColor">
-                                            <div class="pi01VCItem">
-                                                <input checked type="radio" name="color1" value="Blue" id="color1_blue"/>
-                                                <label for="color1_blue"></label>
-                                            </div>
-                                            <div class="pi01VCItem yellows">
-                                                <input type="radio" name="color1" value="Yellow" id="color1_yellow"/>
-                                                <label for="color1_yellow"></label>
-                                            </div>
-                                            <div class="pi01VCItem reds">
-                                                <input type="radio" name="color1" value="Red" id="color1_red"/>
-                                                <label for="color1_red"></label>
-                                            </div>
-                                        </div>
-                                        <div class="pi01VSize">
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size1" value="Blue" id="size1_s"/>
-                                                <label for="size1_s">S</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size1" value="Yellow" id="size1_m"/>
-                                                <label for="size1_m">M</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size1" value="Red" id="size1_xl"/>
-                                                <label for="size1_xl">XL</label>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                             <div class="productItem01">
@@ -1936,36 +1190,6 @@
                                     <div class="pi01Price">
                                         <ins>$36</ins>
                                         <del>$46</del>
-                                    </div>
-                                    <div class="pi01Variations">
-                                        <div class="pi01VColor">
-                                            <div class="pi01VCItem">
-                                                <input checked type="radio" name="color2" value="Blue" id="color2_blue"/>
-                                                <label for="color2_blue"></label>
-                                            </div>
-                                            <div class="pi01VCItem yellows">
-                                                <input type="radio" name="color2" value="Yellow" id="color2_yellow"/>
-                                                <label for="color2_yellow"></label>
-                                            </div>
-                                            <div class="pi01VCItem reds">
-                                                <input type="radio" name="color2" value="Red" id="color2_red"/>
-                                                <label for="color2_red"></label>
-                                            </div>
-                                        </div>
-                                        <div class="pi01VSize">
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size2" value="Blue" id="size2_s"/>
-                                                <label for="size2_s">S</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size2" value="Yellow" id="size2_m"/>
-                                                <label for="size2_m">M</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size2" value="Red" id="size2_xl"/>
-                                                <label for="size2_xl">XL</label>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -1994,36 +1218,6 @@
                                         <ins>$82</ins>
                                         <del>$92</del>
                                     </div>
-                                    <div class="pi01Variations">
-                                        <div class="pi01VColor">
-                                            <div class="pi01VCItem">
-                                                <input checked type="radio" name="color3" value="Blue" id="color3_blue"/>
-                                                <label for="color3_blue"></label>
-                                            </div>
-                                            <div class="pi01VCItem yellows">
-                                                <input type="radio" name="color3" value="Yellow" id="color3_yellow"/>
-                                                <label for="color3_yellow"></label>
-                                            </div>
-                                            <div class="pi01VCItem reds">
-                                                <input type="radio" name="color3" value="Red" id="color3_red"/>
-                                                <label for="color3_red"></label>
-                                            </div>
-                                        </div>
-                                        <div class="pi01VSize">
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size3" value="Blue" id="size3_s"/>
-                                                <label for="size3_s">S</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size3" value="Yellow" id="size3_m"/>
-                                                <label for="size3_m">M</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size3" value="Red" id="size3_xl"/>
-                                                <label for="size3_xl">XL</label>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                             <div class="productItem01 pi01NoRating">
@@ -2040,36 +1234,6 @@
                                     <h3><a href="javascript:void(0);">Men’s full sleeve t-shirt</a></h3>
                                     <div class="pi01Price">
                                         <ins>$19</ins>
-                                    </div>
-                                    <div class="pi01Variations">
-                                        <div class="pi01VColor">
-                                            <div class="pi01VCItem">
-                                                <input checked type="radio" name="color4" value="Blue" id="color4_blue"/>
-                                                <label for="color4_blue"></label>
-                                            </div>
-                                            <div class="pi01VCItem yellows">
-                                                <input type="radio" name="color1" value="Yellow" id="color4_yellow"/>
-                                                <label for="color4_yellow"></label>
-                                            </div>
-                                            <div class="pi01VCItem reds">
-                                                <input type="radio" name="color4" value="Red" id="color4_red"/>
-                                                <label for="color4_red"></label>
-                                            </div>
-                                        </div>
-                                        <div class="pi01VSize">
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size4" value="Blue" id="size4_s"/>
-                                                <label for="size4_s">S</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size4" value="Yellow" id="size4_m"/>
-                                                <label for="size4_m">M</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size4" value="Red" id="size4_xl"/>
-                                                <label for="size4_xl">XL</label>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -2099,36 +1263,6 @@
                                         <ins>$29</ins>
                                         <del>$56</del>
                                     </div>
-                                    <div class="pi01Variations">
-                                        <div class="pi01VColor">
-                                            <div class="pi01VCItem">
-                                                <input checked type="radio" name="color5" value="Blue" id="color5_blue"/>
-                                                <label for="color5_blue"></label>
-                                            </div>
-                                            <div class="pi01VCItem yellows">
-                                                <input type="radio" name="color5" value="Yellow" id="color5_yellow"/>
-                                                <label for="color5_yellow"></label>
-                                            </div>
-                                            <div class="pi01VCItem reds">
-                                                <input type="radio" name="color5" value="Red" id="color5_red"/>
-                                                <label for="color5_red"></label>
-                                            </div>
-                                        </div>
-                                        <div class="pi01VSize">
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size5" value="Blue" id="size5_s"/>
-                                                <label for="size5_s">S</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size5" value="Yellow" id="size5_m"/>
-                                                <label for="size5_m">M</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size5" value="Red" id="size5_xl"/>
-                                                <label for="size5_xl">XL</label>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                             <div class="productItem01">
@@ -2155,36 +1289,6 @@
                                     <div class="pi01Price">
                                         <ins>$49</ins>
                                         <del>$60</del>
-                                    </div>
-                                    <div class="pi01Variations">
-                                        <div class="pi01VColor">
-                                            <div class="pi01VCItem">
-                                                <input checked type="radio" name="color6" value="Blue" id="color6_blue"/>
-                                                <label for="color6_blue"></label>
-                                            </div>
-                                            <div class="pi01VCItem yellows">
-                                                <input type="radio" name="color6" value="Yellow" id="color6_yellow"/>
-                                                <label for="color6_yellow"></label>
-                                            </div>
-                                            <div class="pi01VCItem reds">
-                                                <input type="radio" name="color6" value="Red" id="color6_red"/>
-                                                <label for="color6_red"></label>
-                                            </div>
-                                        </div>
-                                        <div class="pi01VSize">
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size6" value="Blue" id="size6_s"/>
-                                                <label for="size6_s">S</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size6" value="Yellow" id="size6_m"/>
-                                                <label for="size6_m">M</label>
-                                            </div>
-                                            <div class="pi01VSItem">
-                                                <input type="radio" name="size6" value="Red" id="size6_xl"/>
-                                                <label for="size6_xl">XL</label>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
