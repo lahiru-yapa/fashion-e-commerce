@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Ulina - Fashion Ecommerce Responsive HTML Template</title>
+        <title></title>
         <meta name="description" content="Fashion Ecommerce Responsive HTML Template.">
         <meta name="keywords" content="HTML, CSS, JavaScript, jQuery, Animation, Bootstrap, Font Awesome, Revolution Slider, Fasion, Ecommerce, Shop, WooCommerce">
         <meta name="author" content="uiuxom">
