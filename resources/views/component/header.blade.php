@@ -10,11 +10,11 @@
                             </div>
                             <div class="mainMenu">
                                 <ul>
-                                    <li><a href="about.html">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="about.html">Shop</a></li>
-                                    <li><a href="about.html">Testimonial</a></li>
-                                    <li><a href="contact.html">Contacts</a></li>
+                                    <li><a href="{{ route('home')}}">Home</a></li>
+                                    <li><a href="{{ route('about')}}">About</a></li>
+                                    <li><a href="{{ route('shop')}}">Shop</a></li>
+                                    <li><a href="{{ route('testimonial')}}">Testimonial</a></li>
+                                    <li><a href="{{ route('contact')}}">Contacts</a></li>
                                 </ul>
                             </div>
                             <div class="accessNav">

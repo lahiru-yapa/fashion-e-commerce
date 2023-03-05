@@ -14,13 +14,13 @@ use App\Http\Controllers\HomeController;
 |
 */
 
-Route::get('/', [HomeController::class, 'index']);
+Route::get('/', [HomeController::class, 'index'])->name('home');
 
-Route::get('about', [HomeController::class, 'about']);
+Route::get('about', [HomeController::class, 'about'])->name('about');
 
-Route::get('testimonial', [HomeController::class, 'testimonial']);
+Route::get('testimonial', [HomeController::class, 'testimonial'])->name('testimonial');
 
-Route::get('contact', [HomeController::class, 'contact']);
+Route::get('contact', [HomeController::class, 'contact'])->name('contact');
 
-Route::get('shop', [HomeController::class, 'shop']);
+Route::get('shop', [HomeController::class, 'shop'])->name('shop');
 
